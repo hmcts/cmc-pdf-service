@@ -9,7 +9,7 @@ returns the PDF as a binary stream.
 
 The template, besides containing ordinary HTML markup, can also contain inline CSS styling and embedded images.
 
-## Getting started
+### Getting started
 
 ### Prerequisites
 
