@@ -20,7 +20,7 @@ configurations.all {
 dependencies {
   compile group: 'uk.gov.hmcts.reform', name: 'logging', version: reformLogging
 
-  compile group: 'com.google.guava', name: 'guava', version: '30.0-jre'
+  compile group: 'com.google.guava', name: 'guava', version: '30.1.1-jre'
 
   compile group: 'com.mitchellbosecke', name: 'pebble', version: '2.4.0'
 

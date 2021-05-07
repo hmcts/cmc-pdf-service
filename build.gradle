@@ -203,7 +203,7 @@ dependencies {
   compile group: 'io.springfox', name: 'springfox-swagger2', version: springfoxSwagger
   compile group: 'io.springfox', name: 'springfox-swagger-ui', version: springfoxSwagger
 
-  compile group: 'com.google.guava', name: 'guava', version: '30.1-jre'
+  compile group: 'com.google.guava', name: 'guava', version: '30.1.1-jre'
 
   compile group: 'uk.gov.hmcts.reform', name: 'logging', version: reformLogging
   compile group: 'uk.gov.hmcts.reform', name: 'logging-appinsights', version: reformLogging
