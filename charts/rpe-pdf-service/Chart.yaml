@@ -1,7 +1,7 @@
 apiVersion: v2
 name: rpe-pdf-service
 home: https://github.com/hmcts/rpe-pdf-service
-version: 0.6.10
+version: 0.6.11
 description: PDF generation service
 maintainers:
   - name: HMCTS Platform engineering team
