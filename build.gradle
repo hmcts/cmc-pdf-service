@@ -240,7 +240,7 @@ dependencies {
   contractTestCompile group: 'au.com.dius.pact.provider', name: 'spring', version: versions.pact_version
   contractTestCompile group: 'au.com.dius.pact.provider', name: 'junit5spring', version: versions.pact_version
   contractTestCompile("org.junit.jupiter:junit-jupiter-api:5.7.0")
-  contractTestRuntime("org.junit.jupiter:junit-jupiter-engine:5.7.0")
+  contractTestRuntime("org.junit.jupiter:junit-jupiter-engine:5.7.2")
   contractTestImplementation('org.junit.jupiter:junit-jupiter-api:5.7.0')
 
   compile project(':pdf-generator')
